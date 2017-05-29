@@ -1,0 +1,23 @@
+# Site settings
+title: "Presentations"
+description: "A repository of presentations given by Mark Newcomb"
+baseurl: ""
+url: "http://mdnukem.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
+theme: typewriter
+
+# Links
+links:
+  - title: "abt"
+    url: /about
+  - title: "twt"
+    url: http://twitter.com/alixedi
+  - title: "git"
+    url: http://github.com/alixedi
+  - title: "rss"
+    url: /feed.xml
