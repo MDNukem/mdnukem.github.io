@@ -2,3 +2,19 @@
 [Epidural Abscess Handout](/06-01-17/Epidural_Abscess_Handout.pdf)
 
 [Epidural Abscess Slides](/06-01-17/Epidural_Abscess_Presentation.pdf)
+
+# December 6, 2016
+[Acute Pancreatitis Slides](/12-06-16/Acute_Pancreatitis_Presentation.pdf)
+
+# October 13, 2016
+[Eosinophilic Gastroenteritis Handout](/10-13-16/Eosinophilic_Gastroenteritis.pdf)
+
+# September 30, 2016
+[Neonatal Abstinence Syndrome Handout](/09-30-16/Neonatal_Abstinence_Syndrome.pdf)
+
+# September 6, 2016
+[Management of PPROM Slides](/09-06-16/Management_PPROM.pdf)
+
+# July 7, 2016
+[Diagnosis and Workup of Ascites Handout](/07-07-16/AscitesHandout.pdf)
+
