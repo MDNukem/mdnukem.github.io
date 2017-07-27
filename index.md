@@ -1,3 +1,6 @@
+# July 27, 2017
+[Safety in the Emergency Department](/07-27-17/Quality_Improvement.pptx)
+
 # June 1, 2017
 [Epidural Abscess Handout](/06-01-17/Epidural_Abscess_Handout.pdf)
 
