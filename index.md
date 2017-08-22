@@ -1,3 +1,6 @@
+# August 22, 2017
+[Testicle and Leg Swelling](/8-22-17/Testicle_Swelling.pptx)
+
 # July 27, 2017
 [Safety in the Emergency Department](/07-27-17/Quality_Improvement.pptx)
 
