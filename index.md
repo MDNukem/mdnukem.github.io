@@ -1,3 +1,6 @@
+# August 31, 2017
+[Albuterol and Lactic Acidosis](/08-31-2017/albuterol_acidosis.pdf)
+
 # August 22, 2017
 [Testicle and Leg Swelling](/8-22-17/Testicle_Swelling.pptx)
 
