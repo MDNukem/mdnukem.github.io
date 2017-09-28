@@ -1,3 +1,6 @@
+# September 28, 2017
+[Management of Acute Chest Syndrome](/09-28-17/acute_chest.pdf)
+
 # August 31, 2017
 [Albuterol and Lactic Acidosis](/08-31-17/albuterol_acidosis.pdf)
 
