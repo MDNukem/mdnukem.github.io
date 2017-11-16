@@ -1,3 +1,6 @@
+# November 16, 2017
+[Bitemporal T2/FLAIR Enhancement](/11-16-17/Bitemporal_T2_FLAIR_Enhancement.pdf)
+
 # September 28, 2017
 [Management of Acute Chest Syndrome](/09-28-17/acute_chest.pdf)
 
